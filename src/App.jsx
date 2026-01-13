@@ -24,8 +24,8 @@ const PROJECTS = [
   { title: "Finans.AI", desc: "Gestor financeiro inteligente com Prisma ORM e Dashboard moderno.", demo: "https://finans-ai.vercel.app", repo: "https://github.com/LuisPauloCN507/finans-ai", icon: <Wallet size={24} /> },
   { title: "DevFinder", desc: "Busca de perfis GitHub consumindo API externa com tipagem estrita.", demo: "https://dev-finder-omega-vert.vercel.app", repo: "https://github.com/LuisPauloCN507/dev-finder", icon: <Code2 size={24} /> },
   { title: "FocusTimer", desc: "Temporizador Pomodoro com lógica de precisão e efeitos sonoros.", demo: "https://focus-timer-three-xi.vercel.app", repo: "https://github.com/LuisPauloCN507/focus-timer", icon: <Clock size={24} /> },
-  { title: "NoteKeeper Pro", desc: "CRUD Full Stack com arquitetura MVC.", repo: "https://github.com/LuisPauloCN507/note-keeper", icon: <FolderOpen size={24} /> },
-  { title: "PyDownloader", desc: "Automação em Python para downloads do YouTube.", repo: "https://github.com/LuisPauloCN507/py-downloader", icon: <Terminal size={24} /> },
+  { title: "NoteKeeper V2.5", desc: "CRUD Full Stack com arquitetura MVC.", repo: "https://github.com/LuisPauloCN507/note-keeper", icon: <FolderOpen size={24} /> },
+  { title: "PyDownloader Rev5", desc: "Automação em Python para downloads do YouTube.", repo: "https://github.com/LuisPauloCN507/py-downloader", icon: <Terminal size={24} /> },
 ];
 
 const HackerText = ({ text }) => {
